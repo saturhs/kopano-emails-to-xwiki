@@ -7,7 +7,7 @@ This project automates the process of extracting user data (names, emails) from 
 
 ## Project Structure
 ```md
-root/xwiki-script
+xwiki-script
 │
 ├── scripts                             # Contains the project scripts
 │   ├── kopano_extract_emails.py        # Main script to extract data from Kopano
