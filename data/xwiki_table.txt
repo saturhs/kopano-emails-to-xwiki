@@ -1,0 +1,1 @@
+There should be tables made by a script, but they do contain a sensitive data.
